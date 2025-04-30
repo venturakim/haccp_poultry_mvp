@@ -221,3 +221,4 @@ elif st.session_state.step == 2:
             file_name="haccp_summary.docx",
             mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document"
         )
+
